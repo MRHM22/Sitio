@@ -1,0 +1,51 @@
+.titulo{
+	text-align: center;
+	color: red;
+	background-color: green;
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style:none;
+	font-size:18px;
+	margin: 0px;
+	padding: 0px;
+}
+.se-gris{
+	background-color: gray;
+	padding: 5px 10px;
+
+}
+.inline{
+	display:inline-block;
+	float: none;
+}
+.button{
+	font-size:18px;
+	font-family:"Times New Roman", Georgia, Serif;
+	border-radius: 10px;
+	border-style: solid;
+	background-color: #dec325;
+	color: red;
+}
+body{
+	text-align: center;
+	float: none;
+	margin-top: 20px;
+	font-family: 'Marmelad', sans-serif;
+	font-size: 1.8em;
+}
+.lobster{
+	font-family: 'Lobster', cursive;
+	font-size: 2.5em;
+	color: #2477BF;
+}
+.espacio-l{
+	margin-left: 1em;
+}
+.retraso{
+	-webkit-animation-delay:1s;
+	-moz-animation-delay:1s;
+	-animation-delay:1s;
+}
